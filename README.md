@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building tools and widgets for my Blazor WASM portfolio site.<br>👯 I’m looking to collaborate on anything related to embedded systems or OpenCV / Computer Vision.<br>🌱 I’m currently engrossed in applying computer vision theory from academic [papers](paperswithcode.com) to practical applications.<br>💬 Ask me about my time as a controls engineer!<br>⚡ Fun fact: I am 6'6" but I've never played competitive basketball.
+🔭 I’m currently working on building tools and widgets for my Blazor WASM portfolio site.<br>👯 I’m looking to collaborate on anything related to embedded systems or OpenCV / Computer Vision.<br>🌱 I’m currently engrossed in applying computer vision theory from academic [papers](https://www.paperswithcode.com) to practical applications.<br>💬 Ask me about my time as a controls engineer!<br>⚡ Fun fact: I am 6'6" but I've never played competitive basketball.
 
 
 ## 🌐 Socials:
